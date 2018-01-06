@@ -18,6 +18,7 @@ namespace WindowsFormsApp1
         }
         int s = 0;
         int m = 0;
+        int o = 0;
         private void Form1_Load(object sender, EventArgs e)
         {
 
